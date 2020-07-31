@@ -6,10 +6,18 @@
   display: none;
 }
 
+div#wall .parent #tag-4 {
+  background: url(../images/tag-5.png) no-repeat;
+  z-index: 3;
+  display: none;
+  padding-left: 50px;
+  padding-right:50px;
+}
+
 div#wall .parent #tag-6 {
   background: url(../images/tag-5.png) no-repeat;
   z-index: 3;
   display: none;
   padding-left: 50px;
-  pedding-right:50px;
+  padding-right:50px;
 }
